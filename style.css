@@ -90,6 +90,10 @@ h2{
     background-color: hsl(213, 19%, 50%);
     color: hsl(0, 0%, 100%);
 }
+a{
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+}
 .button:active{
     background-color: hsl(0, 0%, 100%);
     color: hsl(25, 97%, 53%);
